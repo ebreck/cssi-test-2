@@ -1,2 +1,3 @@
 # cssi-test-2
-Author: Eric
+
+Authors: Eric! and Reuven!
